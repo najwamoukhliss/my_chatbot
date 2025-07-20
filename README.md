@@ -45,7 +45,7 @@ my ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenA
 1. Clone the repo:
    ```bash
    git clone https://github.com/najwamoukhliss/my_chatbot.git
-   cd sbr_chatbot
+   cd my_chatbot
    ```
 
 2. Add your `.env` file:
@@ -71,8 +71,4 @@ my ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenA
 
 Powered by OpenAI's APIs
 
----
 
-## 👤 Author
-
-**Saad El Mabrouk** 
