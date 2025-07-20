@@ -23,7 +23,7 @@ my ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenA
 
 | Login Page | Chatting & Generation | Image Upload & Response |
 |------------|------------------------|--------------------------|
-| ![Login](/images/login.png) | ![Chat1](/images/chat.png) | ![Chat2](/images/image_description.png) |
+| ![Login](/images/login_page.png) | ![Chat1](/images/chat.png) | ![Chat2](/images/image_description.png) |
 
 
 ---
@@ -44,7 +44,7 @@ my ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenA
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/saadBr/sbr_chatbot
+   git clone https://github.com/najwamoukhliss/my_chatbot.git
    cd sbr_chatbot
    ```
 
